@@ -44,3 +44,8 @@ This MVP is intended to:
 - Dashboard integration (Power BI )  
 - Enhanced monitoring and logging with quota limitations 
 - Expanded data sources and use cases  
+
+
+<img src="gbdemo.png" width="900px">
+<img src="snow.png" width="900px">
+<img src="aws.png" width="900px">
