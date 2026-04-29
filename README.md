@@ -1,4 +1,4 @@
-# Snowflake Analytics Delivery MVP
+# Snowflake Analytics Delivery MVP Logistics EDW
 
 ## Objective  
 This project is a simple Minimum Viable Product (MVP) of an analytics delivery platform built on Snowflake. The goal is to simulate a real-world, production-style data environment that enables scalable data ingestion, transformation, and consumption while enforcing proper data governance and access control.  
@@ -23,7 +23,7 @@ The platform is designed to demonstrate how modern data teams deliver analytics 
   Data is organized into Bronze (raw), Silver (cleaned), and Gold (business-ready) layers for clarity and scalability.
 
 - **AWS Integration**  
-  Data ingestion and staging through AWS services (e.g., S3), supporting ELT workflows.
+  Data ingestion and staging through AWS services (S3), supporting ELT workflows.
 
 - **Snowflake Cortex Models**  
   Integration of Snowflake-native AI/ML capabilities to enable advanced analytics and intelligent data interactions.
@@ -39,8 +39,8 @@ This MVP is intended to:
 🚧 **In Progress** — This project is actively being developed and will continue to evolve with additional features, optimizations, and production-level enhancements.
 
 ## Future Enhancements  
-- Orchestration (e.g., Airflow or similar tools)  
+- Orchestration (AWS storage bucket, Snowpipe Ingestion)  
 - CI/CD for dbt pipelines  
-- Dashboard integration (Power BI / Tableau)  
-- Enhanced monitoring and logging  
+- Dashboard integration (Power BI )  
+- Enhanced monitoring and logging with quota limitations 
 - Expanded data sources and use cases  
