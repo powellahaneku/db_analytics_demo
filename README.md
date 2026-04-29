@@ -47,5 +47,5 @@ This MVP is intended to:
 
 
 <img src="gbdemo.png" width="900px">
-<img src="snow.png" width="900px">
-<img src="aws.png" width="900px">
+<img src="snow.jpeg" width="900px">
+<img src="aws.jpeg" width="900px">
