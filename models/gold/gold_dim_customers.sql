@@ -1,0 +1,1 @@
+select * from {{ ref('silver_sap_dim_customers') }}

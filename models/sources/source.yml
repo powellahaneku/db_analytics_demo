@@ -1,0 +1,19 @@
+sources:
+  - name: sap
+    database: GB_EDW_DEV
+    schema: staging
+    config:
+      enabled: true
+    tables:
+      - name: sap_logistics_customers  # enabled
+      - name: sap_logistics_trucks
+      - name: sap_logistics_delivery_events
+      - name: sap_logistics_drivers
+      - name: sap_logistics_facilities
+      - name: sap_logistics_fuel_purchases
+      - name: sap_logistics_loads
+      - name: sap_logistics_maintainance_records
+      - name: sap_logistics_routes
+      - name: sap_logistics_safety_incidents
+      - name: sap_logistics_trailers
+      - name: sap_logistics_trips
